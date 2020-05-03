@@ -5,7 +5,11 @@ same directory of file for future local lookup.
 
 
 ## Usage
-./ekamus.py [malay word]
+1. install the requirements of the script
+    `pip install -r requirements.txt`
+
+2. run
+    `./ekamus.py [malay word]`
 
 ## Screenshot
 ![a gif image](./screenshot.gif)
