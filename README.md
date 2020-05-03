@@ -8,4 +8,4 @@ same directory of file for future local lookup.
 ./ekamus.py [malay word]
 
 ## Screenshot
-[a gif image](./screenshot.gif)
+![a gif image](./screenshot.gif)
