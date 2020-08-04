@@ -10,7 +10,7 @@ same directory of file for future local lookup.
     `pip install -r requirements.txt`
 
 2. run
-    `./ekamus.py [malay word]`
+    `./ekamus.py [malay or chinese word]`
 
 ## Screenshot
 ![a gif image](./screenshot.gif)
