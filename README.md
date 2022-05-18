@@ -1,3 +1,4 @@
+No longer works.
 ## Introduction
 This is a parser or command line dictionary for www.ekamus.info.
 
